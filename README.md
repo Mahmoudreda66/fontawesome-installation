@@ -22,7 +22,7 @@ copy them into your project. your project structure should be like this:
 
 #### calling library
 in your index.html file just add
-<link rel="stylesheet" src="all.min.css">
+&lt;link rel="stylesheet" src="all.min.css"&gt;
 
 it should work after these steps. to try it just add your icon.
 

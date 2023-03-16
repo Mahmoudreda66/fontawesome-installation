@@ -24,4 +24,6 @@ copy them into your project. your project structure should be like this:
 in your index.html file just add
 <link rel="stylesheet" src="all.min.css">
 
-it should work after these steps. to try it just add <i class="fas fa-user"></i>
+it should work after these steps. to try it just add your icon.
+
+fontawesome icons: https://fontawesome.com/search
